@@ -5,7 +5,7 @@ Template engine designed with first class support for layouts and macros with ea
 
 Features
 =======
-  *   **Syntax** - Stencil features a compact syntax that uses a single character ('$') to inctroduce dynamic
+  *   **Syntax** - Stencil features a compact syntax that uses a single character ('$') to introduce dynamic
   regions.
   *   **Blocks** - Passing around blocks of text is at the cornerstone of the Stencil language. Block syntax
   allows the succinct creation and passing of blocks of text to macros and included templates.
